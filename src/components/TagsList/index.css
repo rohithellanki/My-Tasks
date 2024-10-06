@@ -1,0 +1,14 @@
+.tag-btns {
+  background-color: transparent;
+  color: white;
+  border-radius: 10px;
+  height: 5vh;
+  margin: 5px;
+  border-style: solid;
+  border-color: #f3aa4e;
+  border-width: 1px;
+}
+.active 
+{
+  background-color: #f3aa4e;
+}

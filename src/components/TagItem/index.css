@@ -1,0 +1,27 @@
+.tag-li {
+  background-color: #131213;
+  height: 8vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: white;
+  margin: 10px;
+}
+.tag-item-heading {
+  font-size: 18px;
+  font-weight: 400;
+  padding-left: 8px;
+}
+.category-item 
+{
+  padding-right:8px;
+  background-color: #f3aa4e;
+  height:4vh;
+  border-radius:8px;
+  padding-left:4px;
+  color:#000000;
+  font-weight:600;
+  font-size:12px;
+  text-align: center;
+  padding-top:4px;
+}
